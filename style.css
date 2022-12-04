@@ -1,0 +1,109 @@
+html, body {
+	height: 100%;
+	width: 100%;
+  }
+  
+  body{
+	  height: auto;
+	  width: 100%;
+	  margin: auto;
+	
+	  
+  }
+  
+  span{
+	  font-size: 20px;
+	  color: white;
+  
+  }
+  
+  header{
+	  border: 2px solid orange;
+	  height:200px;
+	  width: 98,5%;
+	  margin: 15px 15px 40px 15px;
+	  text-align: center;
+	  border-radius: 5px;
+	  
+  }
+
+  h1{
+	font-family: 'Kenia', serif;
+    font-size: 48px;
+	color:orange;
+  }
+
+  p{
+	font-weight: bold;
+	font-size: 18px;
+  }
+  #pH{
+	font-family: 'Nerko One', sans-serif;
+	font-size: 38px;
+	color: #08C;
+
+  }
+  button{
+	  
+	  margin-left: 15px;
+	  margin-bottom: 15px;
+	  height: 30px;
+	  width: 300px;
+	  background-color: #F49300;
+	  color: white;
+	  border: 0;
+	  border-radius: 5px;
+  }
+  
+  
+  
+  nav{
+	  float: left;
+	  width:20%;
+	  height:500px;
+	  margin: 10px 0px 10px 0px;
+	  border:1px solid #000;
+	  text-align: center;
+  
+  }
+  
+  
+  
+  section{
+	  border: 2px solid orange;
+	  border-radius: 5px;
+	  display: flex;
+	  justify-content: center;
+	  width: 98,5%;
+	  margin: 15px 15px 40px 15px;
+	  height:500px;
+	  background-color: rgba(255, 166, 0, 0.61);
+	  
+	  text-align: center;
+  }
+  
+  article{
+	padding: 10px;
+	margin: 10px;
+	width: 80%;
+	height: 300px;
+	border: 1px solid #000;
+	background:#eee;
+	margin-bottom:20px; 
+  }
+  
+  
+  
+  input{
+	  width: 10px;
+  }
+  
+  footer{
+	  float: left;
+	  height: 50px;
+	  margin: 15px 605px 40px 15px;
+	  width: 97.5%;
+	  border: 2px solid orange;
+	  text-align: center;
+	  border-radius: 5px;
+  }
